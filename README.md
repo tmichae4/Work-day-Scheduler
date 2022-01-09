@@ -18,7 +18,7 @@
 
 <h3>Links</h3>
 
-https://github.com/tmichae4/Work-day-Scheduler.git
+https://github.com/tmichae4/Work-day-Scheduler.git <br></br>
 https://tmichae4.github.io/Work-day-Scheduler/
 
 
