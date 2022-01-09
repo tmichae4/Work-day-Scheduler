@@ -19,7 +19,7 @@
 <h3>Links</h3>
 
 https://github.com/tmichae4/Work-day-Scheduler.git
-
+https://tmichae4.github.io/Work-day-Scheduler/
 
 
 <h4>Author</h4>
