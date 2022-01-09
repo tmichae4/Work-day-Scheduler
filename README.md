@@ -1,5 +1,5 @@
 # Work-day-Scheduler
-<h1>PROJECT-Scheduler</h1>
+<h1>Calander</h1>
 
 <p>Create a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and shows updated HTML and CSS powered by jQuery.</p>
 
